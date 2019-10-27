@@ -24,6 +24,8 @@
         
     </div>
 
-
+    <script>
+        popularMovies();
+    </script>
 
 <?php include 'footer.php'; ?>
